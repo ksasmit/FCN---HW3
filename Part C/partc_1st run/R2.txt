@@ -1,0 +1,7 @@
+Vertex R2 Distance from Source
+R1		2147483647
+R2		0
+R3		2147483647
+R4		-4
+H1		2147483647
+H2		-2

@@ -1,0 +1,12 @@
+h1 ip address add 50.1.1.1/24 dev h1-eth0
+r1 ip address add 50.1.1.2/24 dev r1-eth0
+r1 ip address add 51.1.1.1/24 dev r1-eth1
+r1 ip address add 52.1.1.1/24 dev r1-eth2
+r2 ip address add 51.1.1.2/24 dev r2-eth0
+r2 ip address add 53.1.1.2/24 dev r2-eth1
+r3 ip address add 52.1.1.2/24 dev r3-eth0
+r3 ip address add 54.1.1.2/24 dev r3-eth1
+r4 ip address add 55.7.7.1/24 dev r4-eth0
+r4 ip address add 53.1.1.1/24 dev r4-eth1
+r4 ip address add 54.1.1.1/24 dev r4-eth2
+h2 ip address add 55.7.7.2/24 dev h2-eth0
